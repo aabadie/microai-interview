@@ -3,7 +3,7 @@
 This repository contains the material used during the MicroAI position interview.
 
 <p align="center">
-    <strong><a href="https://iot-lab.github.io/microai-interview/slides/interview">Click here</a></strong> to start
+    <strong><a href="https://aabadie.github.io/microai-interview/slides/interview">Click here</a></strong> to start
 </p>
 
 ## License
